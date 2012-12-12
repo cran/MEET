@@ -20,10 +20,4 @@ Joan Maynou <joan.maynouatupc.edu>}
 \seealso{
 redundancy, entropy.Shannon,entropy.Renyi, correction.redundancy, correction.entropy, correctionaprox
 }
-\examples{
-require("MEET")
-data(TranscriptionFactor)
-data(iicc)
-Factortrans<-iicc$Transcriptionfactor
-q<-iicc$q
-CalculRedundancy(Factortrans,q,iicc)}
+

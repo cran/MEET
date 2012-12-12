@@ -1,4 +1,4 @@
-4d88aa15f6a62d62655907c29cfc95d3 *DESCRIPTION
+cf2ab27341400bc67cdaba214d31fc35 *DESCRIPTION
 e8817fab6fb45f412aea28419193d034 *NAMESPACE
 67969b05ffd82a992a09d09348d4e572 *R/Alignment.R
 33ab9d0dcf55199b748c981a9b1945b6 *R/CalculInformation.R
@@ -128,7 +128,7 @@ f7533759f317c3f01e1ecdffa6007651 *man/BackgroundOrganism.Rd
 107ed6b54cc92522b1a07d2e18b357c1 *man/CalculInformation.Rd
 d247e1beaf4fdecd36f0b91725c83a5f *man/CalculPSSM.Rd
 08c16a1a556f8b0508f25dff80ef5476 *man/CalculPWM.Rd
-3fb1a85719541e31524c59bfe38976ae *man/CalculRedundancy.Rd
+009fac8cb6c28f859df9dd8dedd32d0e *man/CalculRedundancy.Rd
 b653904256c2c56de189adcb790790ff *man/CalculScores.Rd
 8309b50bfbfffb19756972a5a7ebfbf0 *man/CalculSimilarity.Rd
 2c1ee1e897ce7174e95f1026bdf3c056 *man/ConstructModel.Rd
