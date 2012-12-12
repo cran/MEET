@@ -1,0 +1,19 @@
+BackgroundOrganism: Prob
+DrosophilaDivergence: iicc
+DrosophilaEntropy: iicc
+DrosophilaQresiduals: iicc
+HomoDivergence: iicc
+HomoEntropy: iicc
+HomoQresiduals: iicc
+MusDivergence: iicc
+MusEntropy: iicc
+MusQresiduals: iicc
+RattusDivergence: iicc
+RattusEntropy: iicc
+RattusQresiduals: iicc
+RenyiOrder: q
+Sequence
+TFlogodds
+TranscriptionFactor
+iicc
+organism

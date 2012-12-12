@@ -1,0 +1,15 @@
+useDynLib(MEET)
+
+importFrom("Hmisc",trap.rule)
+import("seqinr")
+#import("fields")
+import("pcaMethods")
+import("Matrix")
+import("ROCR")
+import("KernSmooth")
+import("methods")
+import("seqLogo")
+exportPattern(".")
+exportMethods("[")
+exportClasses(Model,correction)
+
